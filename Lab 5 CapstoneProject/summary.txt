@@ -1,0 +1,6 @@
+
+Executive Summary:
+- Total Campus Consumption: 231752.85 kWh
+- Highest-Consuming Building: BuildingA
+- Peak Load Time: 2023-01-19 03:00:00
+- Weekly Trends (Average Consumption per Building): {'BuildingA': 54.83673893480752, 'BuildingB': 54.02339759472208, 'BuildingC': 54.80712991021677}
